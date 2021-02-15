@@ -1,4 +1,4 @@
-# Maze solver
+# Music visualizer
 
 ## Basic information
 
